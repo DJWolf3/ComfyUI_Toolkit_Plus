@@ -1,0 +1,14 @@
+Main Directory: ComfyUI_Toolkit_Plus
+Subfolders:
+Assets
+Config
+	Config/Positive Prompts
+	Config/Negative Promtps
+Nodes
+	Nodes/__pycache__
+Web
+	Web/JS
+
+Files:
+__init__.py
+Custom Node Structure.txt

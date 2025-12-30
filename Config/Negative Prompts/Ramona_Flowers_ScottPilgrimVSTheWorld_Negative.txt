@@ -1,0 +1,2 @@
+lowres, low resolution, blurry, deformed, unclear,
+inconsistent colors, flicker, random artifacts, extra details,
