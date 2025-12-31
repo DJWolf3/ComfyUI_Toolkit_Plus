@@ -39,6 +39,9 @@ Regardless I Hope You Enjoy the Pack and It's Features!!
 4. Install and restart ComfyUI
 
 ### Option B — Manual Install
-```bash
-cd ComfyUI/custom_nodes
-git clone https://github.com/DJWolf3/ComfyUI_Toolkit_Plus.git
+```bash1. Open a terminal or command prompt.
+2. Navigate to your ComfyUI custom_nodes directory:
+   cd ComfyUI/custom_nodes
+3. Copy the repository’s GitHub clone URL.
+4. Clone the repository using the copied URL:
+   git clone "GitHub clone URL"
