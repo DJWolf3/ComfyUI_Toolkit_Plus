@@ -5,12 +5,16 @@ This project focuses on **clarity, control, and non-destructive tooling** for AI
 [WARNING] I am not a Coder I am a Simple Hobbyist Who Loves to Work with AI to Create Various Artwork for My Own Personal Use Therefore the Code Stated and Created in this Project is done with AI Itself in a Relatively Organized Manner Not Everything is Perfect But Any updates I Make May/Will Be Updated Here as I use My own Tools on a Consistent Basis [WARNING]
 Regardless I Hope You Enjoy the Pack and It's Features!!
 
-## ✨ Features Implemented ✨
+## ✨ Features Implemented ✨  
 - Menus
   - Node Replacement
 
 - Panels
   - Prompt Library
+
+## 📚 Wiki Information 📚  
+- This repository includes a Wiki containing detailed information on how to use this custom node pack and its features.
+- I hope you enjoy using this node pack as much as I do on a regular basis.
 
 ## 🧠 Design Philosophy 🧠
 - **Modular-Scripting**  
