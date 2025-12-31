@@ -13,13 +13,13 @@ Regardless I Hope You Enjoy the Pack and It's Features!!
   - Prompt Library
 
 ## 🧠 Design Philosophy 🧠
-- **Modular-Scripting**
+- **Modular-Scripting**  
   Each script is designed to be plug-and-play. As long as the required files for a specific feature are present, that feature will function correctly and can be separated from the rest of the pack, with the exception of the initialization files.
 - **User-Controlled**  
   Nothing is injected into workflows without your action.
 - **Non-Destructive**  
   Your graphs remain untouched.
-- **Transparent-Storage**
+- **Transparent-Storage**  
   Files are Saved within this Custom Nodes Pack Directory that way Everything is Organized
 - **Utility-First**  
   Built to support real creative pipelines, not gimmicks.
