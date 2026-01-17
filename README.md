@@ -10,9 +10,12 @@ Regardless I Hope You Enjoy the Pack and It's Features!!
 ## ✨ Features Implemented ✨  
 - Menus
   - Node Replacement
+  - Save To Gallery
 
 - Panels
   - Prompt Library
+  - CivitAI Library
+  - Image/Video Gallery
 
 ## 📚 Wiki Information 📚  
 - This repository includes a Wiki containing detailed information on how to use this custom node pack and its features.
